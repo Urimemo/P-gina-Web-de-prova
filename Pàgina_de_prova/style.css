@@ -1,0 +1,11 @@
+body {
+    background-color: #f7f8f9;
+}
+.titulo {
+    margin: 2rem;
+    margin-left: 5rem;
+}
+
+.card {
+    margin-left: 3rem;
+}
